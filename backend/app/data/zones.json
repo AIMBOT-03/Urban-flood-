@@ -1,0 +1,36 @@
+[
+  {"zone_id": "cuttack-naraj", "city": "Cuttack", "name": "Naraj", "lat": 20.4959, "lon": 85.8082, "elevation_m": 4.5, "slope_deg": 1.0, "distance_to_river_km": 0.3, "drainage_density": 0.8},
+  {"zone_id": "cuttack-malgodown", "city": "Cuttack", "name": "Malgodown", "lat": 20.4715, "lon": 85.8795, "elevation_m": 6.0, "slope_deg": 1.2, "distance_to_river_km": 0.4, "drainage_density": 1.0},
+  {"zone_id": "cuttack-buxibazaar", "city": "Cuttack", "name": "Buxi Bazaar", "lat": 20.4680, "lon": 85.8830, "elevation_m": 7.5, "slope_deg": 1.5, "distance_to_river_km": 0.8, "drainage_density": 1.1},
+  {"zone_id": "cuttack-choudwar", "city": "Cuttack", "name": "Choudwar", "lat": 20.5280, "lon": 85.8630, "elevation_m": 12.0, "slope_deg": 2.5, "distance_to_river_km": 1.5, "drainage_density": 2.0},
+  {"zone_id": "cuttack-badambadi", "city": "Cuttack", "name": "Badambadi", "lat": 20.4790, "lon": 85.8920, "elevation_m": 14.0, "slope_deg": 3.0, "distance_to_river_km": 2.2, "drainage_density": 2.6},
+  {"zone_id": "cuttack-cda6", "city": "Cuttack", "name": "CDA Sector-6", "lat": 20.4550, "lon": 85.9050, "elevation_m": 22.0, "slope_deg": 4.5, "distance_to_river_km": 4.0, "drainage_density": 4.2},
+
+  {"zone_id": "bbsr-oldtown", "city": "Bhubaneswar", "name": "Old Town (Ekamra)", "lat": 20.2450, "lon": 85.8340, "elevation_m": 8.0, "slope_deg": 1.5, "distance_to_river_km": 1.0, "drainage_density": 1.2},
+  {"zone_id": "bbsr-rasulgarh", "city": "Bhubaneswar", "name": "Rasulgarh", "lat": 20.2965, "lon": 85.8580, "elevation_m": 10.0, "slope_deg": 1.8, "distance_to_river_km": 1.3, "drainage_density": 1.4},
+  {"zone_id": "bbsr-kharavela", "city": "Bhubaneswar", "name": "Kharavela Nagar", "lat": 20.2680, "lon": 85.8420, "elevation_m": 13.0, "slope_deg": 2.2, "distance_to_river_km": 2.0, "drainage_density": 2.1},
+  {"zone_id": "bbsr-saheednagar", "city": "Bhubaneswar", "name": "Saheed Nagar", "lat": 20.2860, "lon": 85.8360, "elevation_m": 17.0, "slope_deg": 3.0, "distance_to_river_km": 2.8, "drainage_density": 2.8},
+  {"zone_id": "bbsr-patia", "city": "Bhubaneswar", "name": "Patia", "lat": 20.3550, "lon": 85.8190, "elevation_m": 28.0, "slope_deg": 5.0, "distance_to_river_km": 5.0, "drainage_density": 4.5},
+  {"zone_id": "bbsr-csp", "city": "Bhubaneswar", "name": "Chandrasekharpur", "lat": 20.3480, "lon": 85.8050, "elevation_m": 31.0, "slope_deg": 5.5, "distance_to_river_km": 6.2, "drainage_density": 5.0},
+
+  {"zone_id": "puri-swargadwar", "city": "Puri", "name": "Swargadwar / Grand Road", "lat": 19.8025, "lon": 85.8245, "elevation_m": 3.0, "slope_deg": 0.5, "distance_to_river_km": 0.2, "drainage_density": 0.7},
+  {"zone_id": "puri-beachroad", "city": "Puri", "name": "Puri Beach Road", "lat": 19.7980, "lon": 85.8320, "elevation_m": 3.5, "slope_deg": 0.6, "distance_to_river_km": 0.3, "drainage_density": 0.9},
+  {"zone_id": "puri-malatipatpur", "city": "Puri", "name": "Malatipatpur", "lat": 19.8210, "lon": 85.8480, "elevation_m": 6.5, "slope_deg": 1.2, "distance_to_river_km": 1.2, "drainage_density": 1.5},
+  {"zone_id": "puri-railway", "city": "Puri", "name": "Puri Railway Station Area", "lat": 19.8090, "lon": 85.8290, "elevation_m": 5.5, "slope_deg": 1.0, "distance_to_river_km": 0.9, "drainage_density": 1.3},
+  {"zone_id": "puri-viproad", "city": "Puri", "name": "VIP Road", "lat": 19.7930, "lon": 85.8400, "elevation_m": 9.0, "slope_deg": 1.8, "distance_to_river_km": 2.0, "drainage_density": 2.2},
+
+  {"zone_id": "balasore-town", "city": "Balasore", "name": "Balasore Town (Budhabalanga)", "lat": 21.4930, "lon": 86.9330, "elevation_m": 5.0, "slope_deg": 1.0, "distance_to_river_km": 0.4, "drainage_density": 1.0},
+  {"zone_id": "balasore-sahadevkhunta", "city": "Balasore", "name": "Sahadevkhunta", "lat": 21.5020, "lon": 86.9180, "elevation_m": 7.0, "slope_deg": 1.4, "distance_to_river_km": 1.0, "drainage_density": 1.3},
+  {"zone_id": "balasore-remuna", "city": "Balasore", "name": "Remuna", "lat": 21.5450, "lon": 86.9050, "elevation_m": 11.0, "slope_deg": 2.0, "distance_to_river_km": 2.5, "drainage_density": 2.0},
+  {"zone_id": "balasore-railway", "city": "Balasore", "name": "Balasore Railway Area", "lat": 21.4970, "lon": 86.9250, "elevation_m": 9.0, "slope_deg": 1.8, "distance_to_river_km": 1.6, "drainage_density": 1.9},
+
+  {"zone_id": "kendrapara-town", "city": "Kendrapara", "name": "Kendrapara Town", "lat": 20.5000, "lon": 86.4218, "elevation_m": 3.5, "slope_deg": 0.4, "distance_to_river_km": 0.6, "drainage_density": 0.9},
+  {"zone_id": "kendrapara-rajkanika", "city": "Kendrapara", "name": "Rajkanika", "lat": 20.6100, "lon": 86.6300, "elevation_m": 2.5, "slope_deg": 0.3, "distance_to_river_km": 0.3, "drainage_density": 0.6},
+  {"zone_id": "kendrapara-mahakalapada", "city": "Kendrapara", "name": "Mahakalapada", "lat": 20.4300, "lon": 86.7700, "elevation_m": 2.0, "slope_deg": 0.2, "distance_to_river_km": 0.5, "drainage_density": 0.5},
+  {"zone_id": "kendrapara-aul", "city": "Kendrapara", "name": "Aul", "lat": 20.6650, "lon": 86.4550, "elevation_m": 4.0, "slope_deg": 0.5, "distance_to_river_km": 0.8, "drainage_density": 1.0},
+
+  {"zone_id": "sambalpur-town", "city": "Sambalpur", "name": "Sambalpur Town", "lat": 21.4669, "lon": 83.9812, "elevation_m": 130.0, "slope_deg": 2.0, "distance_to_river_km": 0.7, "drainage_density": 1.6},
+  {"zone_id": "sambalpur-hirakud", "city": "Sambalpur", "name": "Hirakud", "lat": 21.5330, "lon": 83.8650, "elevation_m": 178.0, "slope_deg": 2.5, "distance_to_river_km": 0.3, "drainage_density": 1.8},
+  {"zone_id": "sambalpur-dhanupali", "city": "Sambalpur", "name": "Dhanupali", "lat": 21.4500, "lon": 83.9700, "elevation_m": 190.0, "slope_deg": 3.5, "distance_to_river_km": 2.0, "drainage_density": 3.0},
+  {"zone_id": "sambalpur-modipara", "city": "Sambalpur", "name": "Modipara", "lat": 21.4780, "lon": 84.0050, "elevation_m": 196.0, "slope_deg": 4.0, "distance_to_river_km": 3.2, "drainage_density": 3.6}
+]
